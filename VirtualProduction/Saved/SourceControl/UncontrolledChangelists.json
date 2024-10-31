@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/Maps/00-Persistent.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/Maps/01-Lighting.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/Maps/1A-Level_A.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/Maps-Levels/1A-Level_A.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/Maps-Levels/00-Persistent.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/Maps-Levels/01-Lighting.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/Maps-Levels/Main.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/Maps/Main.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/Maps/OLD-Main.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/OLD-Main.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/1A-Level_A.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/00-Persistent.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/01-Lighting.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/1B-Level_B.umap",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSky/BP_Sky_Sphere.uasset",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/00-Persistent_BuiltData.uasset",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/01-Lighting_BuiltData.uasset",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/1A-Level_A_BuiltData.uasset",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/1B-Level_B_BuiltData.uasset",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/1C-Level_C.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/00-Lighting_BuiltData.uasset",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/00-Lighting.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/01-Level_1_BuiltData.uasset",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/01-Level_1.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/02-Level_2_BuiltData.uasset",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/02-Level_2.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/03-Level_C.umap",
+				"D:/Github_D_drive/VirtualProduction/VirtualProduction/Content/NYU_VP/Maps/03-Level_3.umap"
+			]
+		}
+	]
+}
